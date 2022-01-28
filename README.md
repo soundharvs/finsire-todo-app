@@ -1,24 +1,8 @@
-# README
+# To Do List using Ruby on Rails
+use rails scaffold to build the required controllers and models 
+all the CURD operations are added
+Bootstrap was used for styling the applications 
+The database was changed from sqlite3 to Postgresql
+After migrating Database , application was deployed to heroku
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://finsire-todo.herokuapp.com - application link
